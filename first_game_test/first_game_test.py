@@ -1,4 +1,4 @@
-#! C:\Python\python370
+#!/usr/vin/env python3
 # We want to import the pygame module and some constants and functions
 # that already exist in the pygame module.
 import pygame
