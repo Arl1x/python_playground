@@ -52,10 +52,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/dak3004/Documents/GitHub/python_playground"
 	],
 	"file_history":
 	[
+		"/C/Users/dak3004/Documents/GitHub/python_playground/display_test/display_test.py",
+		"/C/Users/dak3004/Documents/GitHub/python_playground/first_game_test/first_game_test.py",
+		"/C/Users/dak3004/Documents/ARCH/i2b2/healthix_proxyid_july2018_wcmc.csv",
+		"/C/Users/dak3004/Documents/GitHub/python_playground/python_playground.sublime-project",
 		"/C/Users/dak3004/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 		"/C/Users/dak3004/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
 		"/C/Users/dak3004/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
@@ -65,7 +68,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -79,13 +82,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\t",
+			"/t"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"    "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -99,16 +105,11 @@
 			"sheets":
 			[
 			]
-		},
-		{
-			"sheets":
-			[
-			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -123,18 +124,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.553372868792,
 			1.0
 		],
 		"rows":
@@ -148,11 +142,11 @@
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
 	"project": "python_playground.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -190,7 +184,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 229.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
